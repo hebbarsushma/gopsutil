@@ -3,7 +3,7 @@ package mem
 import (
 	"encoding/json"
 
-	"github.com/hebbarsushma/gopsutil/internal/common"
+	"github.com/hebbarsushma/gopsutil/new/common"
 )
 
 var invoke common.Invoker = common.Invoke{}
