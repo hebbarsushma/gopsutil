@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/hebbarsushma/gopsutil/internal/common"
 	"golang.org/x/sys/unix"
 )
 
